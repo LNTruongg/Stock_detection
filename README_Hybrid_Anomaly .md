@@ -10,6 +10,9 @@ Forest)**.
 The system aims to provide **real-time alerts**, improve **investment
 decision-making**, and enhance **market transparency**.
 
+## 🏗️ System Architecture
+
+![System Architecture](drawio.jpg)
 ------------------------------------------------------------------------
 
 ## 🎯 Objectives
@@ -114,9 +117,3 @@ Explainability - Scalability
 ## 👥 Authors
 
 FPT University Research Team
-
-------------------------------------------------------------------------
-
-## 📅 Generated
-
-2026-04-10
