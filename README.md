@@ -55,7 +55,7 @@ Score = 0.6 * Rule + 0.4 * ML
 ## 📈 Visualizations
 
 ![Anomaly Plot](notebooks/images/anomaly_plot.png)
-![Feature Distribution](notebooks/images/feature_distribution.png)
+![Feature Distribution](drawio.jpg)
 
 ---
 
