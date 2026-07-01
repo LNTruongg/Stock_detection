@@ -4,7 +4,7 @@
 ## 🎥 Demo Video
 
 <p align="center">
-  <img src="demo_video.gif" width=600><br/>
+  <img src="demo_video.gif" width=900><br/>
   <i>Camera app demo</i>
 </p>
 
