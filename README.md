@@ -47,8 +47,6 @@ Example rule: - Volume ratio \> 1.8 - RSI \> 70 - Price breakout
 Model: **Isolation Forest** - Detects anomalies via tree-based
 isolation - Works without labeled data (unsupervised)
 
-**Input features (10D):** - Log-return - Volatility - RSI - MACD - ATR
-
 ------------------------------------------------------------------------
 
 ##  Hybrid Scoring
@@ -89,5 +87,4 @@ Explainability - Scalability
 ------------------------------------------------------------------------
 
 ## 👥 Authors
-
-FPT University Research Team
+Le Nhat Truong 
