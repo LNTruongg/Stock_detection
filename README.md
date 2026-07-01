@@ -1,6 +1,9 @@
 # Hybrid Anomaly Detection System for Stock Market Manipulation
 
 ## 📌 Overview
+## 🎥 Demo Video
+
+[![Demo Video](thumbnail.png)](demo.mp4)
 
 This project presents a **Hybrid Anomaly Detection System** designed to
 identify potential stock market manipulation using a combination of
