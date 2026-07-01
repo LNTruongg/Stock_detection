@@ -62,23 +62,6 @@ Score = 0.6 × Rule-based + 0.4 × ML-based
 
 ------------------------------------------------------------------------
 
-## 🏗️ System Architecture
-
-Pipeline: 1. Data Collection 2. Preprocessing 3. Feature Engineering 4.
-Anomaly Detection 5. Scoring 6. Output Alerts
-
-------------------------------------------------------------------------
-
-##  Performance
-
-  Model               Precision   Recall      F1          ROC-AUC
-  ------------------- ----------- ----------- ----------- -----------
-  Isolation Forest    0.587       0.607       0.597       0.955
-  Z-score             0.562       0.885       0.688       0.974
-  **Hybrid System**   **0.700**   **0.803**   **0.748**   **0.983**
-
--   Best F1-score: **0.748**
--   Speed: **32.7 µs/sample**
 
 ##  Use Cases
 
