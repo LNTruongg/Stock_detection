@@ -3,7 +3,11 @@
 ## 📌 Overview
 ## 🎥 Demo Video
 
-[![Demo Video](thumbnail.png)](demo.mp4)
+<h2 align="center">🎥 Demo</h2>
+
+<p align="center">
+  <img src="demo.gif" width="900">
+</p>
 
 This project presents a **Hybrid Anomaly Detection System** designed to
 identify potential stock market manipulation using a combination of
