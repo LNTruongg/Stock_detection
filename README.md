@@ -1,12 +1,6 @@
 # Hybrid Anomaly Detection System for Stock Market Manipulation
 
 ## 📌 Overview
-## 🎥 Demo Video
-
-<p align="center">
-  <img src="demo_video.gif" width=900><br/>
-  <i>Camera app demo</i>
-</p>
 
 This project presents a **Hybrid Anomaly Detection System** designed to
 identify potential stock market manipulation using a combination of
@@ -16,10 +10,18 @@ Forest)**.
 The system aims to provide **real-time alerts**, improve **investment
 decision-making**, and enhance **market transparency**.
 
+
+## 🎥 Demo App
+To use this app, upload a CSV file or enter a stock ticker. The dashboard will automatically detect abnormal trading days, classify their severity, and group them into clusters to flag potential pump-and-dump patterns
+<p align="center">
+  <img src="demo_video.gif" width=900><br/>
+  <i>Camera app demo</i>
+</p>
+
+
 ## 🏗️ System Architecture
 
 ![System Architecture](drawio.jpg)
-------------------------------------------------------------------------
 
 ## 🎯 Objectives
 
@@ -30,8 +32,6 @@ decision-making**, and enhance **market transparency**.
     -   Accuracy
     -   Speed
     -   Explainability
-
-------------------------------------------------------------------------
 
 ## 🧠 Methodology
 
@@ -80,40 +80,25 @@ Anomaly Detection 5. Scoring 6. Output Alerts
 -   Best F1-score: **0.748**
 -   Speed: **32.7 µs/sample**
 
-------------------------------------------------------------------------
-
-## ⚔️ Comparison with SOTA
-
-Advantages: - Lower computational cost - Real-time capability - High
-explainability - Works on standard hardware
-
-------------------------------------------------------------------------
-
-## 🌍 Use Cases
+##  Use Cases
 
 -   Retail investors
 -   Financial analysts
 -   Stock monitoring platforms
 -   Cryptocurrency anomaly detection
 
-------------------------------------------------------------------------
-
-## ⚠️ Limitations
+## Limitations
 
 -   Fixed contamination rate in Isolation Forest
 -   No market index normalization (e.g., VNIndex)
 
-------------------------------------------------------------------------
-
-## 🚀 Future Work
+##  Future Work
 
 -   NLP sentiment analysis from news
 -   Autoencoder-based models
 -   Broader backtesting across sectors
 
-------------------------------------------------------------------------
-
-## 🏁 Conclusion
+## Conclusion
 
 The hybrid approach provides: - High efficiency - Real-time processing -
 Explainability - Scalability
