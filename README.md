@@ -33,7 +33,7 @@ To use this app, upload a CSV file or enter a stock ticker. The dashboard will a
     -   Speed
     -   Explainability
 
-## 🧠 Methodology
+##  Methodology
 
 ### 1. Rule-based Component
 
@@ -51,7 +51,7 @@ isolation - Works without labeled data (unsupervised)
 
 ------------------------------------------------------------------------
 
-## ⚖️ Hybrid Scoring
+##  Hybrid Scoring
 
 Final score is computed as:
 
@@ -69,7 +69,7 @@ Anomaly Detection 5. Scoring 6. Output Alerts
 
 ------------------------------------------------------------------------
 
-## 📊 Performance
+##  Performance
 
   Model               Precision   Recall      F1          ROC-AUC
   ------------------- ----------- ----------- ----------- -----------
