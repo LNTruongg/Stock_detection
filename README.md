@@ -3,10 +3,9 @@
 ## 📌 Overview
 ## 🎥 Demo Video
 
-<h2 align="center">🎥 Demo</h2>
-
 <p align="center">
-  <img src="demo.gif" width="900">
+  <img src="demo_video.gif" width=600><br/>
+  <i>Camera app demo</i>
 </p>
 
 This project presents a **Hybrid Anomaly Detection System** designed to
